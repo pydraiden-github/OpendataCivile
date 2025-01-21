@@ -379,7 +379,7 @@
     <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2023/csv9"/>
   </dcatapit:Dataset>
   <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2020/csv2">
-    <dcat:accessURL rdf:resource="https://github.com/pydraiden-github/OpendataCivile/blob/main/AccessiPS/AccessiPS-2020.csv"/>
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33017&amp;IDc=784"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -394,7 +394,7 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
   <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2021/csv3">
-    <dcat:accessURL rdf:resource="https://github.com/pydraiden-github/OpendataCivile/blob/main/AccessiPS/AccessiPS-2021.csv"/>
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33020&amp;IDc=784"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -409,7 +409,7 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
   <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2022/csv4">
-    <dcat:accessURL rdf:resource="https://github.com/pydraiden-github/OpendataCivile/blob/main/AccessiPS/AccessiPS-2022.csv"/>
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33021&amp;IDc=784"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -424,7 +424,7 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
   <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2023/csv5">
-    <dcat:accessURL rdf:resource="https://github.com/pydraiden-github/OpendataCivile/blob/main/AccessiPS/AccessiPS-2023.csv"/>
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33022&amp;IDc=784"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -439,7 +439,7 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
   <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2020/csv6">
-    <dcat:accessURL rdf:resource="https://github.com/pydraiden-github/OpendataCivile/blob/main/Ricoveri/Ricoveri-2020.csv"/>
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33023&amp;IDc=784"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -454,7 +454,7 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
   <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2021/csv7">
-    <dcat:accessURL rdf:resource="https://github.com/pydraiden-github/OpendataCivile/blob/main/Ricoveri/Ricoveri-2021.csv"/>
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33024&amp;IDc=784"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -469,7 +469,7 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
   <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2022/csv8">
-    <dcat:accessURL rdf:resource="https://github.com/pydraiden-github/OpendataCivile/blob/main/Ricoveri/Ricoveri-2022.csv"/>
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33025&amp;IDc=784"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -484,7 +484,7 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
   <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2023/csv9">
-    <dcat:accessURL rdf:resource="https://github.com/pydraiden-github/OpendataCivile/blob/main/Ricoveri/Ricoveri-2023.csv"/>
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33026&amp;IDc=784"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
