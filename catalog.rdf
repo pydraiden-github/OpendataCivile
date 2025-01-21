@@ -80,7 +80,7 @@
   <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dcat:theme rdf:resource=""/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Ricoveri</dct:title>
     <dcat:landingPage rdf:resource="https://github.com/pydraiden-github/OpendataCivile/tree/main/Ricoveri/"/>
