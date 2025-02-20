@@ -505,7 +505,7 @@
   <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
   <rdf:type rdf:resource="vcard:Kind"/>
   <vcard:fn>Asst Spedali Civili di Brescia</vcard:fn>
-  <vcard:hasEmail rdf:resource="protocollo.spedalicivilibrescia@legalmail.it"/>
+  <vcard:hasEmail rdf:resource="sia@asst-spedalicivili.it"/>
   <vcard:hasTelephone>030 399 5808</vcard:hasTelephone>
   <vcard:hasURL rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
 </dcatapit:Organization>
