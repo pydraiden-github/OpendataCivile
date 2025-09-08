@@ -3,7 +3,7 @@
   <rdf:RDF xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:locn="http://www.w3.org/ns/locn#" xmlns:hydra="http://www.w3.org/ns/hydra/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcatapit="http://dati.gov.it/onto/dcatapit#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:adms="http://www.w3.org/ns/adms#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
 
-<dcatapit:Catalog rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx">
+<dcatapit:Catalog rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
   <dct:title>Azienda Socio Sanitaria Territoriale Degli Spedali Civili di Brescia</dct:title>
   <dct:publisher>
@@ -16,7 +16,7 @@
   </dct:publisher>
   <dct:description>Portale OpenData</dct:description>
   <dct:language>it</dct:language>
-  <foaf:homepage rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx#"/>
+  <foaf:homepage rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati#"/>
   <dcat:themeTaxonomy>
     <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/data-theme">
       <dct:title>Data Theme Vocabulary</dct:title>
@@ -25,19 +25,19 @@
   <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2020"/>
-  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2021"/>
-  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2022"/>
-  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2023"/>
-  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2020"/>
-  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2021"/>
-  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2022"/>
-  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2023"/>
+  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2020"/>
+  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2021"/>
+  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2022"/>
+  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2023"/>
+  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2020"/>
+  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2021"/>
+  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2022"/>
+  <dcat:dataset rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2023"/>
   </dcatapit:Catalog>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL">
     <skos:prefLabel>Salute</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2020">
+  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2020">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
@@ -47,7 +47,7 @@
     <dct:description>Fornisce i dati di accesso da Pronto soccorso 2020 divisi per presidio e  codice di triage di ingresso</dct:description>
     <dct:identifier>asstb:accessi-pronto-soccorso-2020</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dct:rightsHolder>
       <dcatapit:Agent rdf:about="asstb">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -73,14 +73,14 @@
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:issued>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dcat:keyword>Pronto Soccorso</dcat:keyword>
-    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2020/csv2"/>
+    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2020/csv2"/>
   </dcatapit:Dataset>
   <skos:Concept rdf:about="">
     <skos:prefLabel>Salute</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2021">
+  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2021">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
@@ -90,7 +90,7 @@
     <dct:description>Fornisce i dati di accesso da Pronto soccorso 2021 divisi per presidio e  codice di triage di ingresso</dct:description>
     <dct:identifier>asstb:accessi-pronto-soccorso-2021</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dct:rightsHolder>
       <dcatapit:Agent rdf:about="asstb">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -116,14 +116,14 @@
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:issued>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dcat:keyword>Pronto Soccorso</dcat:keyword>
-    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2021/csv3"/>
+    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2021/csv3"/>
   </dcatapit:Dataset>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL">
     <skos:prefLabel>Salute</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2022">
+  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2022">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
@@ -133,7 +133,7 @@
     <dct:description>Fornisce i dati di accesso da Pronto soccorso 2022 divisi per presidio e  codice di triage di ingresso</dct:description>
     <dct:identifier>asstb:accessi-pronto-soccorso-2022</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dct:rightsHolder>
       <dcatapit:Agent rdf:about="asstb">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -159,14 +159,14 @@
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:issued>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dcat:keyword>Pronto Soccorso</dcat:keyword>
-    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2022/csv4"/>
+    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2022/csv4"/>
   </dcatapit:Dataset>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL">
     <skos:prefLabel>Salute</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2023">
+  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2023">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
@@ -176,7 +176,7 @@
     <dct:description>Fornisce i dati di accesso da Pronto soccorso 2023 divisi per presidio e  codice di triage di ingresso</dct:description>
     <dct:identifier>asstb:accessi-pronto-soccorso-2023</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dct:rightsHolder>
       <dcatapit:Agent rdf:about="asstb">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -202,14 +202,14 @@
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:issued>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dcat:keyword>Pronto Soccorso</dcat:keyword>
-    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2023/csv5"/>
+    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2023/csv5"/>
   </dcatapit:Dataset>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL">
     <skos:prefLabel>Salute</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2020">
+  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2020">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
@@ -219,7 +219,7 @@
     <dct:description>Fornisce i dati sui ricoveri del 2020 divisi per presidio e regime di ricovero</dct:description>
     <dct:identifier>asstb:ricoveri-2020</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dct:rightsHolder>
       <dcatapit:Agent rdf:about="asstb">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -245,14 +245,14 @@
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:issued>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dcat:keyword>Ricoveri</dcat:keyword>
-    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2020/csv6"/>
+    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2020/csv6"/>
   </dcatapit:Dataset>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL">
     <skos:prefLabel>Salute</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2021">
+  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2021">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
@@ -262,7 +262,7 @@
     <dct:description>Fornisce i dati sui ricoveri del 2021 divisi per presidio e regime di ricovero</dct:description>
     <dct:identifier>asstb:ricoveri-2021</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dct:rightsHolder>
       <dcatapit:Agent rdf:about="asstb">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -288,14 +288,14 @@
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:issued>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dcat:keyword>Ricoveri</dcat:keyword>
-    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2021/csv7"/>
+    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2021/csv7"/>
   </dcatapit:Dataset>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL">
     <skos:prefLabel>Salute</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2022">
+  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2022">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
@@ -305,7 +305,7 @@
     <dct:description>Fornisce i dati sui ricoveri del 2022 divisi per presidio e regime di ricovero</dct:description>
     <dct:identifier>asstb:ricoveri-2022</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dct:rightsHolder>
       <dcatapit:Agent rdf:about="asstb">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -331,14 +331,14 @@
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:issued>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dcat:keyword>Ricoveri</dcat:keyword>
-    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2022/csv8"/>
+    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2022/csv8"/>
   </dcatapit:Dataset>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL">
     <skos:prefLabel>Salute</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2023">
+  <dcatapit:Dataset rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2023">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
@@ -348,7 +348,7 @@
     <dct:description>Fornisce i dati sui ricoveri del 2023 divisi per presidio e regime di ricovero</dct:description>
     <dct:identifier>asstb:ricoveri-2023</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dct:rightsHolder>
       <dcatapit:Agent rdf:about="asstb">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -374,12 +374,12 @@
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:issued>
-    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+    <dcat:contactPoint rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
     <dcat:keyword>Ricoveri</dcat:keyword>
-    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2023/csv9"/>
+    <dcat:distribution rdf:resource="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2023/csv9"/>
   </dcatapit:Dataset>
-  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2020/csv2">
-    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33017&amp;IDc=784"/>
+  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2020/csv2">
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/system/files/documento/files/7160/12517/AccessiPS-2020.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -393,8 +393,8 @@
     <dct:title>accessi-ps-2020</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2021/csv3">
-    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33020&amp;IDc=784"/>
+  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2021/csv3">
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/system/files/documento/files/7161/12518/AccessiPS-2021.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -408,8 +408,8 @@
     <dct:title>accessi-ps-2021</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2022/csv4">
-    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33021&amp;IDc=784"/>
+  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2022/csv4">
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/system/files/documento/files/7162/12519/AccessiPS-2022.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -423,8 +423,8 @@
     <dct:title>accessi-ps-2022</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/accessi-pronto-soccorso-2023/csv5">
-    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33022&amp;IDc=784"/>
+  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/accessi-pronto-soccorso-2023/csv5">
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/system/files/documento/files/7163/12520/AccessiPS-2023.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -438,8 +438,8 @@
     <dct:title>accessi-ps-2023</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2020/csv6">
-    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33023&amp;IDc=784"/>
+  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2020/csv6">
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/system/files/documento/files/7164/12521/Ricoveri-2020.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -453,8 +453,8 @@
     <dct:title>ricoveri-2020</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2021/csv7">
-    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33024&amp;IDc=784"/>
+  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2021/csv7">
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/system/files/documento/files/7165/12522/Ricoveri-2021.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -468,8 +468,8 @@
     <dct:title>ricoveri-2021</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2022/csv8">
-    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33025&amp;IDc=784"/>
+  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2022/csv8">
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/system/files/documento/files/7166/12523/Ricoveri-2022.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -483,8 +483,8 @@
     <dct:title>ricoveri-2022</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.ashx/ricoveri-2023/csv9">
-    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/servizi/funzioni/download.aspx?ID=33026&amp;IDc=784"/>
+  <dcatapit:Distribution rdf:about="https://www.asst-spedalicivili.it/amministrazione-trasparente/catalogo-dati-aperti-pubblicati/ricoveri-2023/csv9">
+    <dcat:accessURL rdf:resource="https://www.asst-spedalicivili.it/system/files/documento/files/7167/12524/Ricoveri-2023.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -498,7 +498,7 @@
     <dct:title>ricoveri-2023</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-<dcatapit:Organization rdf:about="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx">
+<dcatapit:Organization rdf:about="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp">
   <rdf:type rdf:resource="vcard:Organization"/>
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
   <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
@@ -507,6 +507,6 @@
   <vcard:fn>Asst Spedali Civili di Brescia</vcard:fn>
   <vcard:hasEmail rdf:resource="sia@asst-spedalicivili.it"/>
   <vcard:hasTelephone>030 399 5808</vcard:hasTelephone>
-  <vcard:hasURL rdf:resource="https://www.asst-spedalicivili.it/contenuto/contenuti--ecm/ufficio-relazioni-con-il-pubblico.ashx"/>
+  <vcard:hasURL rdf:resource="https://www.asst-spedalicivili.it/strutture/ufficio-relazioni-pubblico-urp"/>
 </dcatapit:Organization>
 </rdf:RDF>
